@@ -1,0 +1,17 @@
+-classpath '/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/build/classes/java/main:/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/build/resources/main'
+-d '/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/build/docs/javadoc'
+-doctitle 'LibraryGradle 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'LibraryGradle 1.0-SNAPSHOT API'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/ui/Main.java'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/models/BookNotFoundException.java'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/models/Material.java'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/models/LoanNotFoundException.java'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/models/Customer.java'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/models/LoanAlreadyExistsException.java'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/models/Loan.java'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/models/BookCatalog.java'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/models/Book.java'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/utilities/LoanStatus.java'
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/LibraryGradle/src/main/java/utilities/GenderType.java'

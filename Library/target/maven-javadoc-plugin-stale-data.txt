@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+ui
+models
+utilities
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/src/main/java = 1706190171000
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/tag-search-index.js = 1706542238846
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/overview-tree.html = 1706542238744
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/module-search-index.js = 1706542238842
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/index.html = 1706542238749
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/package-search-index.js = 1706542238844
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/jquery-ui.overrides.css = 1706542239045
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/serialized-form.html = 1706542238588
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/index-all.html = 1706542239010
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/allpackages-index.html = 1706542238838
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/member-search-index.js = 1706542238846
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/script.js = 1706542239037
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/stylesheet.css = 1706542239036
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/overview-summary.html = 1706542239023
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/help-doc.html = 1706542239033
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/element-list = 1706542238540
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/allclasses-index.html = 1706542238834
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/type-search-index.js = 1706542238845
+/Users/jimmyemanuelsson/Documents/Java/Utvecklingsverktyg/Inlämning2/Library/target/site/apidocs/search.js = 1706542239039
