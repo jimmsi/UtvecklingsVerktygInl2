@@ -1,0 +1,10 @@
+Library 
+
+Maven goals 
+
+mvn clean
+mvn compile
+mvn test
+mvn javadoc:javadoc
+mvn surefire:test
+mvn package 
